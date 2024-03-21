@@ -1,8 +1,9 @@
 # 🧑‍💻 About Me:
-Hi, My name is Fahd, I'm a third year Computer science Major in Cyprus international university<br>
-<br><ul>🌍  I'm based in Nicosia, North Cyprus
-<br><ul>✉️  You can contact me at fahdkhalid2002@gmail.com
-<br><ul>🤝  I'm open to collaborating on Other drone projects!
+Hi, My name is Fahd, I'm a third year Computer science Major in Cyprus international university
+
+<ul>🌍  I'm based in Nicosia, North Cyprus
+<ul>✉️  You can contact me at fahdkhalid2002@gmail.com
+<ul>🤝  I'm open to collaborating on Other drone projects!
 
 
 ## 🌐 Socials:

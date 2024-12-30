@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me:
-My name is Fahd, and I am studying Software Engineering in Cyprus International University.
+My name is Fahd, currently a senior year college in Cyprus international University studying Software engineering, focus in the field of machine learning and back-end development. Actively expanding my skill set in machine learning and applying it in real-world problems
 
 Email: Fahdkhalid2002@gmail.com
 
